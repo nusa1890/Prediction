@@ -1,0 +1,1 @@
+This repo contains the notebook and datasets we used to train machine learning project for our bangkit capstone final project. This model is used to predict the amount of pollutant on the next day based on 5 pollutant that day
